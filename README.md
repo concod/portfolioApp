@@ -1,2 +1,2 @@
-# portfolioApp
-a portfilio app craeted using bootstrap and flex box
+# Portfolio App
+A portfilio app craeted using bootstrap and flex box
